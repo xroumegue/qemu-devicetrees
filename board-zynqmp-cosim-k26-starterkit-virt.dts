@@ -1,0 +1,3 @@
+
+#include "board-zynqmp-k26-starterkit-virt.dts"
+#include "zynqmp-pl-remoteport.dtsi"
